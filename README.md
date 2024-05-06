@@ -31,3 +31,5 @@ Don't forget to check my [**Github repo**](https://github.com/michaelchndra) :)
 **Note:**
 Updates will be made as long as I can and are always in my github repository: [**Here**](https://github.com/michaelchndra/Scraping-Make-Dataset-from-Tokopedia).
 If you encounter a problem or bug, try to solve it yourself, if not, you can let me know via my [social media](https://linktree-mindra.vercel.app).
+
+License - GNU Public
